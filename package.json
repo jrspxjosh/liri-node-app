@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aidanclemente/liri.git"
+    "url": "git+https://github.com/jrspxjosh/liri.git"
   },
   "keywords": [
     "liri"
@@ -16,9 +16,9 @@
   "author": "Aidan Clemente",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aidanclemente/liri/issues"
+    "url": "https://github.com/jrspxjosh/liri/issues"
   },
-  "homepage": "https://github.com/aidanclemente/liri#readme",
+  "homepage": "https://github.com/jrspxjosh/liri#readme",
   "dependencies": {
     "dotenv": "^4.0.0",
     "node-spotify-api": "^1.0.7",

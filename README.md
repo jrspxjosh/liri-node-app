@@ -4,7 +4,7 @@ Technologies Utilized: Node.js, Spotify API, Twitter API, OMDB API, and File Sup
 
 L.I.R.I. stands for Language Interpretation and Recognition Interface. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line Node app that takes in parameters and gives you back data.
 
-As the name suggests, LIRI is analagous to the iPhone's SIRI assistant, but rather than using speech, LIRI is controlled through written text.
+As the name suggests, LIRI is analogous to the iPhone's SIRI assistant, but rather than using speech, LIRI is controlled through written text.
 
 The LIRI app uses Node.js in the command line of your computer and has dependencies for the request, spotify, and twitter Node packages. It also used the built-in fs package to read and write to text files.
 
